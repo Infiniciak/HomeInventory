@@ -1,0 +1,106 @@
+[
+  {
+    "modelId": "BOSCH-GSB-1300",
+    "name": "Wiertarka udarowa",
+    "description": "Bosch GSB 1300, mocna, zielona",
+    "price": 249.99,
+    "category": "Narzędzia",
+    "location": "Garaż"
+  },
+  {
+    "modelId": "YATO-200-SET",
+    "name": "Zestaw kluczy",
+    "description": "Yato 200 elementów",
+    "price": 399.00,
+    "category": "Narzędzia",
+    "location": "Garaż"
+  },
+  {
+    "modelId": "KROSS-HEX-29",
+    "name": "Rower górski",
+    "description": "Kross Hexagon, koła 29 cali",
+    "price": 1899.00,
+    "category": "Sport i Hobby",
+    "location": "Piwnica"
+  },
+  {
+    "modelId": "DELL-INS-15",
+    "name": "Laptop Dell",
+    "description": "Inspiron 15, i5, 16GB RAM",
+    "price": 3500.00,
+    "category": "Elektronika",
+    "location": "Salon"
+  },
+  {
+    "modelId": "LOGI-M185",
+    "name": "Myszka bezprzewodowa",
+    "description": "Logitech M185",
+    "price": 49.99,
+    "category": "Elektronika",
+    "location": "Salon"
+  },
+  {
+    "modelId": "SAM-24-IPS",
+    "name": "Monitor 24 cale",
+    "description": "Samsung, IPS, 75Hz",
+    "price": 599.00,
+    "category": "Elektronika",
+    "location": "Salon"
+  },
+  {
+    "modelId": "DELONGHI-KOLB",
+    "name": "Ekspres do kawy",
+    "description": "DeLonghi, kolbowy",
+    "price": 850.00,
+    "category": "AGD",
+    "location": "Kuchnia"
+  },
+  {
+    "modelId": "PHIL-800W",
+    "name": "Blender ręczny",
+    "description": "Philips, 800W",
+    "price": 120.00,
+    "category": "AGD",
+    "location": "Kuchnia"
+  },
+  {
+    "modelId": "ZELMER-WORK",
+    "name": "Odkurzacz",
+    "description": "Zelmer, workowy",
+    "price": 300.00,
+    "category": "Dom",
+    "location": "Salon"
+  },
+  {
+    "modelId": "TEFAL-STEAM",
+    "name": "Żelazko",
+    "description": "Tefal, parowe",
+    "price": 150.00,
+    "category": "Dom",
+    "location": "Salon"
+  },
+  {
+    "modelId": "SONY-PS5-D",
+    "name": "Konsola PS5",
+    "description": "Wersja z napędem",
+    "price": 2600.00,
+    "category": "Rozrywka",
+    "location": "Salon"
+  },
+  {
+    "modelId": "SONY-DS-W",
+    "name": "Pad do PS5",
+    "description": "DualSense biały",
+    "price": 299.00,
+    "category": "Rozrywka",
+    "location": "Salon"
+  },
+  {
+    "modelId": "BOOK-KOTLIN-AD",
+    "name": "Książka Kotlin",
+    "description": "Android Development",
+    "price": 89.00,
+    "category": "Edukacja",
+    "location": "Salon"
+  }
+]
