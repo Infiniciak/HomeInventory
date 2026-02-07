@@ -1,0 +1,26 @@
+[
+  {
+    "modelId": "DELL-INS-15",
+    "expiryDate": "15.01.2026",
+    "provider": "Dell Poland Service",
+    "notes": "Gwarancja Next Business Day"
+  },
+  {
+    "modelId": "BOSCH-GSB-1300",
+    "expiryDate": "20.12.2025",
+    "provider": "Bosch Serwis",
+    "notes": "Gwarancja wygasła - sprawdź stan szczotek"
+  },
+  {
+    "modelId": "SONY-PS5-D",
+    "expiryDate": "12.11.2026",
+    "provider": "Sony Europe",
+    "notes": "Zachować paragon z MediaMarkt"
+  },
+  {
+    "modelId": "DELONGHI-KOLB",
+    "expiryDate": "05.02.2026",
+    "provider": "DeLonghi Polska",
+    "notes": "Wymagany regularny odkamieniacz"
+  }
+]
